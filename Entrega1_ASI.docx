@@ -1,0 +1,19 @@
+Requerimientos funcionales
+El sistema debe permitir visualizar un calendario con los retiros programados.
+El sistema debe mostrar los retiros disponibles para una fecha seleccionada.
+El sistema debe permitir buscar retiros específicos (por nombre).
+El sistema debe permitir filtrar retiros por categoría (espiritual, meditación, yoga, silencio, montaña, etc.).
+El sistema debe mostrar información detallada de cada retiro.
+El sistema debe mostrar la fecha de inicio y finalización de cada retiro.
+El sistema debe mostrar la ubicación donde se realizará el retiro.
+El sistema debe mostrar información de contacto de los organizadores.
+El sistema debe permitir guardar retiros como favoritos.
+El sistema debe permitir consultar los retiros favoritos guardados.
+El sistema debe enviar notificaciones sobre retiros próximos.
+El sistema debe enviar notificaciones cuando se agreguen nuevos retiros de interés para el usuario.
+El sistema debe permitir a los administradores cargar nuevos retiros.
+El sistema debe permitir a los administradores modificar la información de los retiros.
+El sistema debe permitir a los administradores eliminar retiros.
+El sistema debe calcular los gastos de cada retiro .
+El sistema debe controlar  que no se superpongan
+El sistema debe  mostrar la calificaciones de cada retiro
